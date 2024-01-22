@@ -1,0 +1,20 @@
+Daniel Lima, ES89012345, 987654321654, Cariacica, ES
+Guilherme Santos, ES67890123, 567890123456, Vila Velha, ES
+Marcos Santos, ES01234567, 901234567890, Guarapari, ES
+Rafael Lima, ES45678901, 554613772865, Vitória, ES
+Thiago Santos, ES23456789, 123456789013, Serra, ES
+Ana Oliveira, MG12345678, 145794868342, Belo Horizonte, MG
+Camila Lima, MG78901234, 678901234567, Contagem, MG
+Gabriela Costa, MG56789012, 156488794653, Uberlândia, MG
+Isabela Santos, MG90123456, 788794653821, Juiz de Fora, MG
+Juliana Lima, MG34567890, 234567890123, Montes Claros, MG
+Amanda Silva, RJ90123456, 890123456789, Campos dos Goytacazes, RJ
+Beatriz Silva, RJ56789012, 456789012345, Nova Iguaçu, RJ
+Carolina Silva, RJ12345678, 123456789012, Petrópolis, RJ
+Fernanda Santos, RJ34567890, 887946758352, Rio de Janeiro, RJ
+Mariana Silva, RJ78901234, 456789123456, Niterói, RJ
+André Oliveira, SP45678901, 345678901234, São José dos Campos, SP
+Carlos Silva, SP23456789, 155467983121, São Paulo, SP
+Lucas Santos, SP67890123, 122435784512, Campinas, SP
+Lucas Oliveira, SP89012345, 789012345678, Ribeirão Preto, SP
+Pedro Oliveira, SP01234567, 123455431652, Santos, SP
